@@ -1,5 +1,7 @@
 #include<stdio.h>
 
+#define MSG "add a msg to test.c"
+
 int add(int a,int b)
 {
    int c=a+c
